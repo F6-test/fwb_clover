@@ -19,6 +19,9 @@
     <!-- QS button to enable adaptive brightness -->
     <string name="accessibility_adaptive_brightness">Adaptive brightness</string>
 
+    <!-- Wifi Standard. -->
+    <string name="status_bar_wifi_standard">Wifi Standard</string>
+
     <!-- Status bar - icons -->
     <string name="status_bar_icons_title">Status bar icons</string>
 
