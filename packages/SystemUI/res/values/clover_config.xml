@@ -78,4 +78,7 @@
     -->
     <string name="config_screenRecorderAVCProfileLevel" translatable="false">4.2</string>
 
+    <!-- Whether to force notifications to take up the full width of the screen in landscape -->
+    <bool name="config_fullWidthNotificationsInLandscape">false</bool>
+
 </resources>
