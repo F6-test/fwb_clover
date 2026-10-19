@@ -1445,9 +1445,6 @@
             NotoSansCJK-Regular.ttc
             <axis tag="wght" stylevalue="900"/>
         </font>
-        <font weight="400" style="normal" index="2" fallbackFor="serif"
-              postScriptName="NotoSerifCJKjp-Regular">NotoSerifCJK-Regular.ttc
-        </font>
     </family>
     <family lang="zh-Hant,zh-Bopo">
         <font weight="100" style="normal" index="3" postScriptName="NotoSansCJKJP-Regular">
@@ -1486,9 +1483,6 @@
             NotoSansCJK-Regular.ttc
             <axis tag="wght" stylevalue="900"/>
         </font>
-        <font weight="400" style="normal" index="3" fallbackFor="serif"
-              postScriptName="NotoSerifCJKjp-Regular">NotoSerifCJK-Regular.ttc
-        </font>
     </family>
     <family lang="ja">
         <font weight="100" style="normal" index="0" postScriptName="NotoSansCJKJP-Regular">
@@ -1526,9 +1520,6 @@
         <font weight="900" style="normal" index="0" postScriptName="NotoSansCJKJP-Regular">
             NotoSansCJK-Regular.ttc
             <axis tag="wght" stylevalue="900"/>
-        </font>
-        <font weight="400" style="normal" index="0" fallbackFor="serif"
-              postScriptName="NotoSerifCJKjp-Regular">NotoSerifCJK-Regular.ttc
         </font>
     </family>
     <family lang="ja">
@@ -1577,9 +1568,6 @@
         <font weight="900" style="normal" index="1" postScriptName="NotoSansCJKJP-Regular">
             NotoSansCJK-Regular.ttc
             <axis tag="wght" stylevalue="900"/>
-        </font>
-        <font weight="400" style="normal" index="1" fallbackFor="serif"
-              postScriptName="NotoSerifCJKjp-Regular">NotoSerifCJK-Regular.ttc
         </font>
     </family>
     <family lang="und-Zsye" ignore="true">

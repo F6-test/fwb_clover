@@ -61,6 +61,7 @@ prebuilt_etc {
 prebuilt_etc {
     name: "font_fallback.xml",
     src: ":generate_font_fallback",
+    overrides: ["NotoSerifCJK-Regular.ttc"],
 }
 
 /////////////////////////////////
@@ -104,6 +105,7 @@ genrule {
     exclude_srcs: [
         "alias.json",
         "fallback_order.json",
+        ":NotoSerifCJK",
     ],
     out: ["font_fallback.xml"],
     cmd: "$(location :generate_fonts_xml) " +
