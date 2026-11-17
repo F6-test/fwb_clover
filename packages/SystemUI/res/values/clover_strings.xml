@@ -22,6 +22,12 @@
     <!-- Wifi Standard. -->
     <string name="status_bar_wifi_standard">Wifi Standard</string>
 
+    <!-- Sound QS Tile -->
+    <string name="quick_settings_sound_label">Sound</string>
+    <string name="quick_settings_sound_ring">Ring</string>
+    <string name="quick_settings_sound_vibrate">Vibrate</string>
+    <string name="quick_settings_sound_mute">Mute</string>
+
     <!-- Status bar - icons -->
     <string name="status_bar_icons_title">Status bar icons</string>
 
